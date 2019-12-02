@@ -1,0 +1,6 @@
+{"url_Channles":"http://118.190.207.192:9133/index/Bill/getList",
+  "hearders":{"Content-Type": "application/x-www-form-urlencoded",
+                  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE1NzIzMzg3NjQsImV4cCI6MTU3NDkzMDc2NCwiZGF0YSI6eyJ1aWQiOjEsImNvbXBhbnlfaWQiOjF9fQ.W1ZCrN1_D-pwLgeTVxbIILodBNBU5w2nX4K1j1cXYcQ"},
+  "status_code":200,
+  "expect_result":"操作成功"
+}

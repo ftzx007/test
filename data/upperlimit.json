@@ -1,0 +1,4 @@
+{"url":"http://118.190.207.192:9133/index/Stock/setTop",
+  "data" : {"id":"1", "stock_top":"10"},
+"headers" : {"Content_Type":"application/x_www-form_urlencoded",   "token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE1NzUyNTM0MDIsImV4cCI6MTU3Nzg0NTQwMiwiZGF0YSI6eyJ1aWQiOjEsImNvbXBhbnlfaWQiOjF9fQ.AvhdGVgTc2qlZ3kbFZ5vd9H_xpIGZgoxR7UYpDMegVI"},
+"expect_result":"更新失败，请重试" }

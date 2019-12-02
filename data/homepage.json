@@ -1,0 +1,7 @@
+{
+  "url":"http://118.190.207.192:9133//index/Index/index",
+  "headers":{"Content-Type":"application/x-www-form-urlencoded",
+             "token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE1NzQ2NTE0OTEsImV4cCI6MTU3NzI0MzQ5MSwiZGF0YSI6eyJ1aWQiOjEsImNvbXBhbnlfaWQiOjF9fQ.5yO92h5btLpSbYD3FqXrwYn3ZboGl2C8togQCvjthGk"
+             },
+  "status_code":200
+}

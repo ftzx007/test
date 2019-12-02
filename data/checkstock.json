@@ -1,0 +1,6 @@
+{
+  "url":"http://118.190.207.192:9133/index/Bill/checkStock",
+  "headers":{"Content-Type":"application/x-www-form-urlencoded","token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE1NzQ4MzYyNjUsImV4cCI6MTU3NzQyODI2NSwiZGF0YSI6eyJ1aWQiOjEsImNvbXBhbnlfaWQiOjF9fQ.kdfAUnloiEVO9KDCic8HnrHfeltHOqASpj5s--rCx3E"},
+  "data":{"goods_id":"1","num":"100"},
+  "status_code":200
+}

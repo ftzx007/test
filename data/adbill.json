@@ -1,0 +1,38 @@
+{
+  "url":"http://118.190.207.192:9133/index/Bill/add",
+  "headers":{"Contet-Type":"application/x-www-form-urlencoded",
+             "token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE1NzUyNTM0MDIsImV4cCI6MTU3Nzg0NTQwMiwiZGF0YSI6eyJ1aWQiOjEsImNvbXBhbnlfaWQiOjF9fQ.AvhdGVgTc2qlZ3kbFZ5vd9H_xpIGZgoxR7UYpDMegVI"},
+
+  "data":{
+     "customer_info": {
+            "customer_id": 1,
+            "customer_name": "王二",
+            "customer_tel": "16801182707",
+             "customer_name_real": "李撒",
+            "customer_tel_real": "16801182707",
+            "car_id": 1,
+            "car_no": "京P88888",
+            "car_engine_no": "3232fff",
+            "car_type_no": "4543543gf",
+            "car_vin": "321312ddas",
+            "factory_no": "32666d",
+            "buycar_date": "2010-10-10"
+        },
+        "check_info": {
+            "staff": [
+                {
+                    "staff_id": 9,
+                    "staff_name": "汉武帝"
+                },
+                {
+                    "staff_id": 2,
+                    "staff_name": "李四"
+                }
+            ],
+            "repair_time": "2019-08-02 10:49:19",
+            "repair_type": 1
+        },
+        "fault": "啊",
+        "suggest": "啊"
+    },
+"status_code":200}
